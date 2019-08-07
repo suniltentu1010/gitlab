@@ -2,4 +2,4 @@
 *.bak
 
 #locally ignore tmp directory files
-tmo/*
+tmp/*
